@@ -6,6 +6,7 @@ class artist
   
   def all-artist (name)
     artist.all = [artist...]
+    puts artist.all
   end
   
 end
